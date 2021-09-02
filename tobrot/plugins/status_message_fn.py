@@ -95,7 +95,7 @@ async def status_message_f(client, message):  # weird code but 'This is the way'
         free = humanbytes(free)
 
         ms_g = (
-            f"<b>🚧 IMΛGΣЯ [ LEECH ] 🚧</b>"
+            f"<b>🚧 𝗪𝗔𝗥𝗜𝗦 𝗭𝗢𝗡𝗘 🧲 🚧</b>"
         )
         if msg == "":
             msg = "📊 No Active, Queued or Paused TORRENTs"
