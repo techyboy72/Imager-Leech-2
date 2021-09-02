@@ -278,7 +278,7 @@ async def call_apropriate_function(
                         f"\n<a href='tg://user?id={user_id}'> DONE✅</a>\n"
                     )
                     message_to_send = f"\n<code>{str(file.name)}</code>\n<b>📼 Total File Size: {file.total_length_string()}</b>\n" + message_to_send 
-                    message_to_send = message_to_send + "\n" + mention_req_user + f"<b>©️ IMΛGΣЯ [ LEECH ]</b>"
+                    message_to_send = message_to_send + "\n" + mention_req_user + f"<b>©️ WARISZONE</b>"
                 else:
                     message_to_send = "🚫 Failed To Upload"
                 await user_message.reply_text(
