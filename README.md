@@ -66,7 +66,7 @@
 	
 Direct Deploy To heroku
 	
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/judhistir88/Imager-Leech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techyboy72/Imager-Leech-Heroku)
 	
 ---
 | How to deploy and Install ?!                                                                                                                 | Name                        | Type          | Lowest-Price Plan                     | Deploy                                                  |
