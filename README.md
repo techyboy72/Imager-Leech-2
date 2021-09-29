@@ -63,6 +63,11 @@
 -   [ ] Selection of required files during leeching the big files using aria(/leech command)
 
 # Deploying
+	
+Direct Deploy To heroku
+	
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/judhistir88/Imager-Leech)
+	
 ---
 | How to deploy and Install ?!                                                                                                                 | Name                        | Type          | Lowest-Price Plan                     | Deploy                                                  |
 | --------------------------------------------------------------------------------------------------------------- | -----------------           | ------------- | ------------------------------------- | ------------------------------------------------------- |
